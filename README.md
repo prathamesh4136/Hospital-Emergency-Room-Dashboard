@@ -1,7 +1,7 @@
 # 🏥 Hospital Emergency Room Dashboard  
 ### **Overall Performance Overview**
 
-![Hospital Emergency Room Dashboard]([er_dashboard.jpg](https://github.com/prathamesh4136/Hospital-Emergency-Room-Dashboard/blob/711bae559fa4e483de849f90168873c104edb0f8/Dashboard.png))
+![Hospital Emergency Room Dashboard](Dashboard.png)
 
 ---
 
